@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+mediapipe==0.10.5
+tensorflow
+numpy<2
+aiortc
+av
+python-multipart
